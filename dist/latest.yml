@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: todo-list-Setup-1.0.0.exe
+    sha512: uV2FFyd8Gbr4ykuuEpJ8WjlpMjIDKU7XohAA2Ly8e5DDx5DSULRwN2nQcixY5rOApGiG+3qRPWlZiXzdcYWZHA==
+    size: 46629216
+path: todo-list-Setup-1.0.0.exe
+sha512: uV2FFyd8Gbr4ykuuEpJ8WjlpMjIDKU7XohAA2Ly8e5DDx5DSULRwN2nQcixY5rOApGiG+3qRPWlZiXzdcYWZHA==
+releaseDate: '2019-09-14T13:58:59.162Z'
